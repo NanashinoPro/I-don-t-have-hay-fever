@@ -7,7 +7,7 @@
 [Plot](Plot.md)
 
 ## Character
-キャラクターを調べてい人はこちらから
+キャラクターを調べたい人はこちらから
 
 [Character](Character.md)
 
