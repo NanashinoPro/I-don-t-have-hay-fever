@@ -1,5 +1,4 @@
 name: Convert Foam Links
-
 on:
   push:
     branches:

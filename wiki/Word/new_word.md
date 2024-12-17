@@ -1,2 +1,0 @@
-# Word/new_word
-
