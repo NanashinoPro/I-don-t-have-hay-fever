@@ -1,0 +1,4 @@
+[[Home]]/[[Plot]]
+
+# Plot
+
