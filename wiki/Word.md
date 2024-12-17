@@ -1,4 +1,4 @@
-[[Home]]/[[Word]]
+[Home](Home.md)/[Word](Word.md)
 
 # Word
 
