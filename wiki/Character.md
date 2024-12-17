@@ -1,4 +1,4 @@
-[[Home]]/[[Character]]
+[Home](Home.md)/[Character](Character.md)
 
 # Character
 
