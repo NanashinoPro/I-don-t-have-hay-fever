@@ -1,4 +1,3 @@
 [[Home]]/[[Plot]]
 
 # Plot
-
