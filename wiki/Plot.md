@@ -1,3 +1,3 @@
-[Home](Home.md)/[Plot](Plot.md)
+[Home](README.md)/[Plot](Plot.md)
 
 # Plot
