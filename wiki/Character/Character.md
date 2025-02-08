@@ -1,4 +1,4 @@
-[Home](README.md)/[Character](Character.md)
+[Home](../README.md)/[Character](Character.md)
 
 # Character
 

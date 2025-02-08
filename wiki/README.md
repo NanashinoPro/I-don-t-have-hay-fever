@@ -1,18 +1,18 @@
-[Home](Home.md)
+[Home](README.md)
 # Home
 
 ## Plot
 プロットを見たい人はこちらから
 
-[Plot](Plot.md)
+[Plot](Plot/Plot.md)
 
 ## Character
 キャラクターを調べたい人はこちらから
 
-[Character](Character.md)
+[Character](Character/Character.md)
 
 ## Word
 単語を調べたい人はこちらから
 
-[Word](Word.md)
+[Word](Word/Word.md)
 
