@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-[Home](README.md)/[Word](Word.md)
+[Home](../README.md)/[Word](Word.md)
 
 # Word
 hoge
