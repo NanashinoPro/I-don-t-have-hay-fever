@@ -8,6 +8,8 @@ jobs:
   convert-links:
     runs-on: ubuntu-latest
     steps:
+      - name: Wait for changes to sync 
+        run: sleep 10
       - name: Checkout repository
         uses: actions/checkout@v2
 
